@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4768fd</color>
+    <color name="colorPrimaryDark">#3c54fe</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <array name="tag_colors">
+        <item>#4669fc</item>
+        <item>#564ddc</item>
+        <item>#8da2fb</item>
+        <item>#abd1f1</item>
+        <item>#27e6fc</item>
+        <item>#1cbad2</item>
+        <item>#069f85</item>
+        <item>#38c89d</item>
+        <item>#fd4281</item>
+        <item>#94de6a</item>
+        <item>#baf6cb</item>
+        <item>#31e8b5</item>
+        <item>#ffebb4</item>
+        <item>#fbd330</item>
+        <item>#ebbd4f</item>
+        <item>#fb9228</item>
+        <item>#ff6d00</item>
+        <item>#ff9f81</item>
+        <item>#fac0a8</item>
+    </array>
+</resources>

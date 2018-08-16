@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MaterialCheckedTextView</string>
+
+    <array name="tag_names">
+        <item>Accessibility</item>
+        <item>Ads</item>
+        <item>Android &amp; Play</item>
+        <item>AR &amp; VR</item>
+        <item>Assistant</item>
+        <item>Cloud</item>
+        <item>Design</item>
+        <item>Firebase</item>
+        <item>Flutter</item>
+        <item>Identity</item>
+        <item>loT</item>
+        <item>Keynote</item>
+        <item>Location &amp; Maps</item>
+        <item>Machine Learning &amp; AI</item>
+        <item>Misc</item>
+        <item>Nest</item>
+        <item>Open Source</item>
+        <item>Payments</item>
+        <item>Web</item>
+    </array>
+</resources>
